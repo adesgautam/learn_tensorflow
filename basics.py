@@ -33,6 +33,7 @@ with tf.Session() as sess:
 
 writer.close()
 
+
 # # Explicitly define graph (User defined graphs)
 # g = tf.Graph()
 # with g.as_default():
